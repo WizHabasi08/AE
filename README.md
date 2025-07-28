@@ -1,6 +1,6 @@
 # 🧠 AutoEncoder for Anomaly Detection
 
-This repository provides a Jupyter Notebook implementation of an AutoEncoder (AE) model designed for anomaly detection tasks. AutoEncoders learn a compressed representation of data and are trained to reconstruct it, making them effective for detecting outliers based on reconstruction error....
+This repository provides a Jupyter Notebook implementation of an AutoEncoder (AE) model designed for anomaly detection tasks. AutoEncoders learn a compressed representation of data and are trained to reconstruct it, making them effective for detecting outliers based on reconstruction error...
 
 ---
 
